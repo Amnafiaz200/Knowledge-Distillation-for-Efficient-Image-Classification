@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/eb38d334-0ade-486f-b0bb-21a6a5557822
+
 ## Knowledge Distillation for Efficient Image Classification on CIFAR-100
 
 This project compares different Knowledge Distillation techniques for efficient image classification on the CIFAR-100 dataset. The main goal is to improve the performance of a lightweight student model by transferring knowledge from a larger teacher model.
